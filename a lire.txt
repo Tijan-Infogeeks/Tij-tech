@@ -1,0 +1,5 @@
+######## Copyright  Ahmad tijan Beye --dakar---senegal ########
+
+- adaptez les repertoires indiqués dans le code au votres !!!
+- installez wireshark ou npcap sur windows 
+- installez le module nmap (pip install python-nmap) en ligne de commande
